@@ -2,7 +2,7 @@
 
 ## Unidade Curricular
 
-**Nome:** Engenharia WEB
+**Nome:** Processamento de Linguagens 
 
 **Ano Letivo:** 2023/2024
 
