@@ -6,6 +6,4 @@ Select id, nome, salario From empregados Where salario >= 820
 ```
 
 ### Execução
-    ```
     python3 main.py <ficheiro-input.txt>
-    ```
