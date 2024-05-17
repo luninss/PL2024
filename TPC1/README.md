@@ -8,6 +8,4 @@ Ler o dataset, processá-lo e criar os seguintes resultados:
     Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos): ... [30-34], [35-39], ...
 
 ### Execução
-    ```
     python3 main.py <ficheiro-input.csv>
-    ```
