@@ -7,6 +7,4 @@
     Sempre que encontrar o caráter “=”, o resultado da soma é colocado na saída.
 
 ### Execução
-    ```
     python3 main.py <ficheiro-input.txt>
-    ```
