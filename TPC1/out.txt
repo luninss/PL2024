@@ -1,0 +1,26 @@
+Modalidades desportivas:
+- Andebol
+- Atletismo
+- BTT
+- Badminton
+- Basquetebol
+- Ciclismo
+- Dança
+- Equitação
+- Esgrima
+- Futebol
+- Karaté
+- Orientação
+- Parapente
+- Patinagem
+- Triatlo
+
+Percentagens de atletas aptos e inaptos para a prática desportiva:
+Percentagem de atletas aptos: 54.00%
+Percentagem de atletas inaptos: 46.00%
+
+Distribuição de atletas por escalão etário:
+[20-24]: 80 atletas
+[25-29]: 102 atletas
+[30-34]: 104 atletas
+[35-39]: 14 atletas

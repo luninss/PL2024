@@ -1,0 +1,14 @@
+oN (devemos somar) 12 off(devemos ignorar) 98 = (resultado) On (voltar a somar) 76 (blábláblá)
+= (printar)
+(palavras só para testar)
+3 (blábláblá blábláblá)
+ON (já está a somar) 456 (não interessa) = (novo print) 32 (bruh) ofF (desilgar) on (ligar)
+890 (palavras mais palavras) = (resultado) 56
+Off (desligar)
+= (printar again) on (ligar) 67 (blábláblá blábláblá) oFf (desligar)
+= (testar o úttimo print)
+
+(teste final) uma palavra que tenha a flag o_n para ver se liga o somatório, se ligar está errado.
+Ou seja, o ultimo e penultimo prints tem que ser iguais para ser correto
+
+monade 12 =

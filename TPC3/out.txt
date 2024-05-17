@@ -1,0 +1,7 @@
+Soma: 12
+Soma: 88
+Soma: 547
+Soma: 1469
+Soma: 1525
+Soma: 1592
+Soma: 1592
